@@ -18,7 +18,7 @@ const require = createRequire(import.meta.url);
 global.prems = ['6282151652728','6285714216711','6285640417385','6282187352115','6285803583481','6288215689772','6285651062576','77075196824'] // Premium user has unlimited limit
 
 // Sticker WM
-global.packname = 'Azami x Byoru'
+global.packname = 'Krisna x Botz'
 global.author = 'Bot V5'
 
 //apikey
